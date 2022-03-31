@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fortification
+- 👋 Hi, I’m @plaidmode
 - 👀 I’m interested in self-driving cars
 - 🌱 I’m currently learning data science
 - 📫 How to reach me 
